@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:salmon"
+    },
+    "R": {
+      "item": "cutemod:rice"
+    }
+  },
+  "pattern": [
+    "   ",
+    " R ",
+    "RSR"
+  ],
+  "result": {
+    "item": "cutemod:onigiri"
+  }
+}

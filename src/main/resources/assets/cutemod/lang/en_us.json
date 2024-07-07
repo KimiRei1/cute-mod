@@ -1,0 +1,44 @@
+{
+  "item.cutemod.candypickaxe" : "Candy Pickaxe",
+  "item.cutemod.candyaxe" : "Candy Axe",
+  "item.cutemod.candyhoe" : "Candy Hoe",
+  "item.cutemod.candyshovel" : "Candy Shovel",
+  "item.cutemod.candysword" : "Candy Sword",
+
+
+
+  "item.cutemod.nekopaw" : "Neko Paw",
+  "item.cutemod.cakestick" : "Cake Stick",
+
+
+
+  "itemGroup.cutemod.cutemod_group" : "CuteMod",
+
+
+
+  "block.cutemod.sweetore" : "Sweet Ore",
+  "block.cutemod.cakeplanks" : "Cake Planks",
+  "block.cutemod.cakelog" : "Cake Log",
+  "block.cutemod.cakelogleaves" : "Cake Log Leaves",
+  "block.cutemod.stove" : "Stove",
+  "block.cutemod.riceplant" : "Rice Plant",
+  "block.cutemod.strawberryplant" : "Strawberry Plant",
+
+
+
+  "item.cutemod.onigiri" : "Onigiri",
+  "item.cutemod.onigiricooked" : "Super Onigiri",
+  "item.cutemod.strawberrycake" : "Strawberry Cake",
+  "item.cutemod.strawberrycakecooked" : "Super Strawberry cake",
+  "item.cutemod.dango" : "Dango",
+  "item.cutemod.dangocooked" : "Super Dango",
+
+
+
+
+
+
+  "item.cutemod.riceflour" : "Rice Flour",
+  "item.cutemod.strawberry" : "Strawberry",
+  "item.cutemod.rice" : "Rice"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "cutemod:cakestick"
+    },
+    "B": {
+      "item": "cutemod:nekopaw"
+    }
+  },
+  "pattern": [
+    " B ",
+    " B ",
+    " A "
+  ],
+  "result": {
+    "item": "cutemod:candysword"
+  }
+}

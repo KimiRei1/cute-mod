@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cutemod:block/stoveside",
+    "up": "cutemod:block/stoveup",
+    "north": "cutemod:block/stoveside",
+    "east": "cutemod:block/stoveside",
+    "south": "cutemod:block/stoveside",
+    "west": "cutemod:block/stovefront",
+    "particle": "cutemod:block/stovefront"
+  }
+}

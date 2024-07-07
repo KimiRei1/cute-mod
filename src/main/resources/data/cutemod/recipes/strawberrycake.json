@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "cutemod:strawberry"
+    },
+    "R": {
+      "item": "cutemod:riceflour"
+    },
+
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "RRR",
+    "MMM"
+  ],
+  "result": {
+    "item": "cutemod:strawberrycake"
+  }
+}

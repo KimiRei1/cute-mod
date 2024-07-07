@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "cutemod:riceflour"
+    }
+  },
+  "pattern": [
+    "  R",
+    " R ",
+    "S  "
+  ],
+  "result": {
+    "item": "cutemod:dango"
+  }
+}
